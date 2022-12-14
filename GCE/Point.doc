@@ -1,3 +1,3 @@
 gcloud compute images list--- will list down all the publicly available images inside the google cloud.
 how to add role in service account:
-Go to IAM--edit service account then add the particular role,
+Go to IAM--edit service account then add the particular role
